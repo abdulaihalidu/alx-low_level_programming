@@ -7,7 +7,7 @@
  */
 int main(void)
 {
-	int alph = 'a';
+	char alph = 'a';
 
 	while (alph <= 'z')
 	{
