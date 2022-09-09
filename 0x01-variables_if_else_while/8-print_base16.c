@@ -18,7 +18,7 @@ int main(void)
 
 	while (base_16_a_f <= 'f')
 	{
-		putchar(base_16_a_f)
+		putchar(base_16_a_f);
 			base_16_a_f++;
 	}
 	putchar('\n');
