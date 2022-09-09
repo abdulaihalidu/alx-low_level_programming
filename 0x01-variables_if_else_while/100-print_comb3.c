@@ -12,7 +12,7 @@ int main(void)
 
 	for (outter_num = '0'; outter_num <= '9'; outter_num++)
 	{
-		for(inner_num = (outter_num + 1); inner_num <= '9'; inner_num++)
+		for (inner_num = (outter_num + 1); inner_num <= '9'; inner_num++)
 		{
 			putchar(outter_num);
 			putchar(inner_num);
