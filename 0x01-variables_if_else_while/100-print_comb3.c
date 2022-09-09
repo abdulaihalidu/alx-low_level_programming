@@ -8,7 +8,7 @@
 int main(void)
 {
 	int outter_num;
-	int innner_num;
+	int inner_num;
 
 	for (outter_num = '0'; outter_num <= '9'; outter_num++)
 	{
