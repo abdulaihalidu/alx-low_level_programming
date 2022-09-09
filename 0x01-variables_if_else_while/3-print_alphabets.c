@@ -24,4 +24,6 @@ int main(void)
 		upper++;
 	}
 	putchar('\n');
+
+	return (0);
 }
