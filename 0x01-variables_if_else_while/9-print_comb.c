@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * main - Prints all possible combination of ingle digits separated by comma
+ * main - Entry point to the program
  *
  * Return: 0 (if successful)
  */
