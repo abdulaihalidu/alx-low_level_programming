@@ -22,4 +22,6 @@ int main(void)
 			base_16_a_f++;
 	}
 	putchar('\n');
+
+	return (0);
 }
