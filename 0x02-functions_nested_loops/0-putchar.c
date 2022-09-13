@@ -1,14 +1,15 @@
 /**
- * for file 0: _putchar
+ *
+ * File: 0-putchar
  *
  */
 
 #include "main.h"
 
 /**
- * main - Entry point to program
+ * main - Prints "_putchar" followed by a new line
  *
- * Return: 0 always
+ * Return: Always 0
  */
 int main(void)
 {
