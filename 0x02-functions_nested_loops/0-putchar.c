@@ -1,4 +1,9 @@
-#include <stdio.h>
+/**
+ * for file 0: _putchar
+ *
+ */
+
+#include "main.h"
 
 /**
  * main - Entry point to program
