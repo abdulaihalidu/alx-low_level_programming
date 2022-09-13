@@ -5,7 +5,7 @@
 #include "main.h"
 
 /**
- * add = computes the sum of two integers
+ * add - adds two integers
  * @num1: first operand
  * @num2: second operand
  *
