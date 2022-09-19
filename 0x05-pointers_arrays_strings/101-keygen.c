@@ -31,7 +31,7 @@ int main(void)
 
 		for (index = 0; password[index]; index++)
 		{
-			if (password[index] >= (33 + diff1)
+			if (password[index] >= (33 + diff1))
 			{
 				password[index] -= diff1;
 				break;
